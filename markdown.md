@@ -16,7 +16,7 @@ Também podemos fazer lista como os exemplos abaixo:
 
 Para usar imagens o código é muito parecido com link, a diferença é o acento !
 
-![Yaktocat(https://octodex.github.com/images/yaktocat.png)
+![Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 - Ou até mesmo
 - Podemos usar traços
