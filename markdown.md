@@ -40,10 +40,10 @@ if (a > 10) {
 ```
 
 Também temos uma marcação interessante para tarefas:
-- [] Task 1
+- [ ] Task 1
 - [x] Task 2
 - [x] Task 3
-- [] Task 4
+- [ ] Task 4
 - [x] Task 5
 
 E por ultimo uma tabela para finalizar ~~com chave de ouro~~ bem:
