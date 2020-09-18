@@ -5,6 +5,7 @@ Este é um exemplo de como tornar o text **negrito** ou *italico* usando Markdow
 Você pode até criar um link como esse logo em seguida: [Link para o site do Google](https://google.com)
 
 Também podemos fazer lista como os exemplos abaixo:
+
 1.Lista ordenada
 2. Com varios itens
 3. Com numeracao normal
