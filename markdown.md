@@ -6,13 +6,13 @@ Você pode até criar um link como esse logo em seguida: [Link para o site do Go
 
 Também podemos fazer lista como os exemplos abaixo:
 
-1.Lista ordenada
+1. Lista ordenada
 2. Com varios itens
 3. Com numeracao normal
 
 * Mas podemos usar também
 * asteriscos para os itens
- * Está é um reentrada
+  * Está é um reentrada
 * como nesse exemplo agora
 
 Para usar imagens o código é muito parecido com link, a diferença é o acento !
@@ -21,7 +21,7 @@ Para usar imagens o código é muito parecido com link, a diferença é o acento
 
 - Ou até mesmo
 - Podemos usar traços
- - Aqui tambem vai outra reentrada
+   - Aqui tambem vai outra reentrada
 - Como esse formato atual
 
 ## Heading H2
